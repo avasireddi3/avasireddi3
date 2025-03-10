@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Aditya Vasireddi and I am an aspiring analytics engineer interested in all things data!
+
 <!--
 **avasireddi3/avasireddi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

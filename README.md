@@ -2,24 +2,28 @@
 
 <!-- ![Image](https://github.com/user-attachments/assets/dc23a068-4aad-4088-b7d1-fce224dd2363) -->
 
-My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!
+My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!  
+
+<p align="center">
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium", width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"  width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
+  </a>
+</p>
 
 <p align="center">
   <!-- Insert your GIF -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN1Y3F4dnJ0YzhnY2U3NTNyeXQ4bDU3ZTNpaGliNmlmdDYxZDc1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" height="300" alt="GitHub Banner">
 </p>
 
-From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.  
-  
-In particular I can help you with:
-
-1. Extraction using existing APIs or reverse engineering APIs for webscraping
-2. Transformation and cleaning using Spark, Pandas, Polars
-3. Loading into a database or data warehouse (locally or cloud hosted)
-4. Crafting dashboards (PowerBI, Tableau, Superset) for data visualization
-5. Optimizing docker container builds
-
-Some tools I have used and learned
+Tools/Frameworks I am familiar with
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50" />
@@ -53,21 +57,17 @@ Some tools I have used and learned
 
 - 🔭 I’m currently working on creating an ecommerce analytics solution for FMCG based companies
 - 🌱 I’m currently learning how to deploy analytics solutions on GCP,AWS along with IaaC using terraform
-- 📫 How to reach me: @avasireddi3@gmail.
+- 📫 How to reach me: avasireddi3@gmail.com
 
-<p align="center">
-  <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium", width="150">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"  width="150">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
-  </a>
-</p>
+From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.  
+  
+In particular I can help you with:
+
+- Extraction using existing APIs or reverse engineering APIs for webscraping
+- Transformation and cleaning using Spark, Pandas, Polars
+- Loading into a database or data warehouse (locally or cloud hosted)
+- Crafting dashboards (PowerBI, Tableau, Superset) for data visualization
+- Optimizing docker container builds
 
 
 <p align="center">

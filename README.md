@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-My name is Aditya Vasireddi and I'm an analytics interested in all things data!
+My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!
 
 From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.
+
 
 Some tools I have used and learned
 
@@ -38,7 +39,21 @@ Some tools I have used and learned
 
 - 🔭 I’m currently working on creating an ecommerce analytics solution for FMCG based companies
 - 🌱 I’m currently learning how to deploy analytics solutions on GCP,AWS along with IaaC with terraform
-- 📫 How to reach me: @avasireddi3@gmail.com
+- 📫 How to reach me: @avasireddi3@gmail.
+
+<p align="center">
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium", width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"  width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
+  </a>
+</p>
 
 <!--
 **avasireddi3/avasireddi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

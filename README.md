@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!-- ![Image](https://github.com/user-attachments/assets/dc23a068-4aad-4088-b7d1-fce224dd2363) -->
 
@@ -10,7 +10,9 @@
 
 My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!
 
-From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all. In particular I can help you:
+From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.  
+  
+In particular I can help you with:
 
 1. Extraction using existing APIs or reverse engineering APIs for webscraping
 2. Transformation and cleaning using Spark, Pandas, Polars

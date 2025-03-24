@@ -2,13 +2,12 @@
 
 <!-- ![Image](https://github.com/user-attachments/assets/dc23a068-4aad-4088-b7d1-fce224dd2363) -->
 
+My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!
+
 <p align="center">
   <!-- Insert your GIF -->
-  <img src="https://i.gifer.com/Vp3L.gif" width="100%" height="100" alt="GitHub Banner">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN1Y3F4dnJ0YzhnY2U3NTNyeXQ4bDU3ZTNpaGliNmlmdDYxZDc1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" height="300" alt="GitHub Banner">
 </p>
-
-
-My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!
 
 From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.  
   

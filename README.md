@@ -1,9 +1,22 @@
 ## Hi there 👋
 
+<!-- ![Image](https://github.com/user-attachments/assets/dc23a068-4aad-4088-b7d1-fce224dd2363) -->
+
+<p align="center">
+  <!-- Insert your GIF -->
+  <img src="https://i.gifer.com/Vp3L.gif" width="100%" height="100" alt="GitHub Banner">
+</p>
+
+
 My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!
 
-From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.
+From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all. In particular I can help you:
 
+1. Extraction using existing APIs or reverse engineering APIs for webscraping
+2. Transformation and cleaning using Spark, Pandas, Polars
+3. Loading into a database or data warehouse (locally or cloud hosted)
+4. Crafting dashboards (PowerBI, Tableau, Superset) for data visualization
+5. Optimizing docker container builds
 
 Some tools I have used and learned
 
@@ -52,6 +65,13 @@ Some tools I have used and learned
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=avasireddi3&theme=dark&card_width=700" alt="GitHub Streak">
   </a>
 </p>
 

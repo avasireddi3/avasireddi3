@@ -52,7 +52,7 @@ Some tools I have used and learned
 </p>
 
 - 🔭 I’m currently working on creating an ecommerce analytics solution for FMCG based companies
-- 🌱 I’m currently learning how to deploy analytics solutions on GCP,AWS along with IaaC with terraform
+- 🌱 I’m currently learning how to deploy analytics solutions on GCP,AWS along with IaaC using terraform
 - 📫 How to reach me: @avasireddi3@gmail.
 
 <p align="center">

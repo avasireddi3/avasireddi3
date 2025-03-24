@@ -5,12 +5,7 @@
 My name is Aditya Vasireddi and I'm a full-stack analytics engineer interested in all things data!  
 
 <p align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="the link to your darkmode image"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN1Y3F4dnJ0YzhnY2U3NTNyeXQ4bDU3ZTNpaGliNmlmdDYxZDc1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" height="300" width="500" alt="GitHub Banner">
-</p>
-
-<p align="center">
-  <!-- Insert your GIF -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6c2b4fb6-3bb6-4d36-aa43-9cad87bb799c"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN1Y3F4dnJ0YzhnY2U3NTNyeXQ4bDU3ZTNpaGliNmlmdDYxZDc1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" height="300" width="500" alt="GitHub Banner">
 </p>
 

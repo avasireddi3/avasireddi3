@@ -56,7 +56,7 @@ Tools/Frameworks I am familiar with
 </p>
 
 - 🔭 I’m currently working on creating an ecommerce analytics solution for FMCG based companies
-- 🌱 I’m currently learning how to deploy analytics solutions on GCP,AWS along with IaaC using terraform
+- 🌱 I’m currently learning how to deploy analytics solutions on GCP, AWS using IaaC with terraform
 - 📫 How to reach me: avasireddi3@gmail.com
 
 From setting up automated workflows, creating reports/dashboards and deploying to the cloud I'm down to do it all.  

@@ -75,7 +75,7 @@ In particular I can help you with:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=avasireddi3&theme=dark&card_width=700" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=avasireddi3&theme=dark&card_width=700" alt="GitHub Streak">
   </a>
 </p>
 
